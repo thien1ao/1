@@ -1,2 +1,3 @@
-def hello_git():
-    print("hello git")
+import pygame as pg
+import sys
+import settings
